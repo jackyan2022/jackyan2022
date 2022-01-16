@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [amazonclone](https://github.com/jackyan2022/amazonclone)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
